@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## My name is Jon and I am a developer.
+
+This is my github repository and this is where I make some personal projects.
+
+You can visit my [portfolio](https://941485-patrol.github.io/my-simple-portfolio/) for more info!
+
 <!--
 **941485-patrol/941485-patrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
